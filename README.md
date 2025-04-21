@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @112343lyfe
-- I'm old, but I'm just started learning this stuff.
+- 👋 Hi, I’m Rob
+- I'm old and started learning this stuff.
 - ...
 
 
