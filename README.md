@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rob
-- I'm old and started learning this stuff.
+- I'm old and just started learning this stuff.
 - ...
 
 
